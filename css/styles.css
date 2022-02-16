@@ -1,0 +1,16 @@
+.rule-list ul li {
+  color: #fff !important;
+  font-size: 22px;
+  text-align: center;
+  list-style-type: decimal;
+  line-height: 2em;
+}
+.rule-list {
+  margin: 0 auto;
+  width: 700px;
+  margin-top: 25px;
+  border-radius: 20px;
+  padding: 50px 50px;
+  background: rgba(111, 53, 248, 0.8);
+  backdrop-filter: saturate(180%) blur(10px);
+}
